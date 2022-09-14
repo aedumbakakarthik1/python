@@ -1,0 +1,52 @@
+Python is a greneral purpose high level programming language .
+=> Guido Van Rossam  was developed the python program in 1989 
+=> official python can to market on feb 20th 1991
+
+=> it is highly recommended language to use for programming(First language to suggest)
+
+in programming in the First code we how to print "hello world"
+
+**in java (in this file foulder we crated the file to write the hello world)
+if you see in that file we can see the java code was very hard to write there are so many lines in the to print it
+
+in c also
+================================================================
+# include<stdio.h>
+void main()
+{
+    printf("Hello World\n");
+}
+see in "c language" it takes 3 line of code were as in python it only take 1 line to print "hello world"    
+================================================================
+
+see the helloWorld.py file it only take 1 line to print "hello world"
+-----------------------------------------------------------
+python is a 
+================================================================
+1.functional programming from c
+2.OOP from C++
+3.Scipting language from Perl and Shell Scipting
+4. Modular programming from Modula-3
+
+=>5.syntax from C and ABC language
+
+----------------------------------------------------------
+where we can use Python:
+================================
+1.Desktop application
+2.web application ->django
+3.Database application
+4.For networking application
+5.Games
+6.data Analysis
+7.Machine learning
+8.A.I 
+9. for IOT application
+
+----------------------------------
+which companies
+================================
+Google
+Youtube
+Dropbox
+NASA etc
