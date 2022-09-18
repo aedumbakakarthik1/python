@@ -1,0 +1,55 @@
+Identifiers in the python:
+--------------------------------
+variable names , method names,class name
+
+
+Rules:
+1. a to z, A to z,0 -9,_
+2.do not starts with digits
+3.case sensitive
+4.Reserved words as Identifiers
+5. No length Limitations
+
+
+
+_x ==> private
+__x ==> strongly private
+__x__ ==>language define
+
+
+Reserved words:
+--------------------------------
+33 Reserved words
+
+True , False , None
+and, or ,not ,is 
+in , for , range , if ,else, elif,
+while, break, continue, return ,yield
+try, except,finally,raise,
+import,from,as ,class,def,pass,global,nonlocal.lambda,del,with
+
+
+note:
+-----
+1.only alphabet symbols
+2.only (True , False , None) are the fist letter is captalin
+
+
+
+data types:
+--------------------------------
+int 
+float
+complex
+bool
+str
+bytes
+bytearray
+range
+List 
+tuple
+set 
+frozenset
+dict
+None
+
